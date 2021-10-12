@@ -1,0 +1,17 @@
+body{
+    width: 500;
+    height: 500;
+    background-color: rgb(217, 227, 236);
+    display: flex;
+    justify-content: center;
+}
+p{
+    display: inline-flex;
+    background-color: aqua;
+    margin: auto 100px ;
+    font-size: 22px;
+    color: blue;
+    border-radius: 16px;
+    border: 1px solid lightblue;
+    padding: 10px;
+}
